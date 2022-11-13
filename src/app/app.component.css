@@ -1,0 +1,24 @@
+.table-container {
+    border: 2px solid #e1798b;
+}
+
+.filter-section {
+    text-align: right;
+    background-color: #0c304e;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+th.mat-header-cell {
+    text-align: center;
+    color: #fff;
+    background-color: #0c304e;
+}
